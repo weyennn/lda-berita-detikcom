@@ -1,0 +1,26 @@
+# Virtual environment
+env/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# VSCode / IDE config
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log dan cache
+*.log
+*.tmp
+*.bak
+.cache/
+logs/
