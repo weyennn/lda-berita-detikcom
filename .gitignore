@@ -1,6 +1,6 @@
 # Virtual environment
 env/
-venv/
+lda_venv/
 .venv/
 __pycache__/
 *.py[cod]
